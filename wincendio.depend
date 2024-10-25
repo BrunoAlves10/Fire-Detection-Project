@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1729803032 source:c:\users\pichau\documents\wincendio\wincendio\main.c
+	<stdio.h>
+	<pthread.h>
+	"functions.h"
+
+1729803043 c:\users\pichau\documents\wincendio\wincendio\functions.h
+
+1729804990 source:c:\users\pichau\documents\wincendio\wincendio\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<unistd.h>
+	"functions.h"
+
